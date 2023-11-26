@@ -21,7 +21,7 @@ namespace Tyuiu.AndreevVY.Sprint5.Task7.V21
             Console.WriteLine("* Тема: Обработка текстовых файлов                                        *");
             Console.WriteLine("* Задание #7                                                              *");
             Console.WriteLine("* Вариант #21                                                             *");
-            Console.WriteLine("* Выполнил: Андреев Владимир Юрьевич | Смарт-Б-23-1                       *");
+            Console.WriteLine("* Выполнил: Андреев Владимир Юрьевич | Смарт-Б-23-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Удалить все знаки препинания из файла.                                  *");

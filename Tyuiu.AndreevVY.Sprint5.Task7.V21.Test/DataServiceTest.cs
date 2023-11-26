@@ -13,7 +13,7 @@ namespace Tyuiu.AndreevVY.Sprint5.Task7.V21.Test
         public void TestMethod1()
         {
             string path = @"C:\Users\sokma\source\repos\Tyuiu.AndreevVY.Sprint5\Tyuiu.AndreevVY.Sprint5.Task7.V21\bin\Debug\InPutDataFileTask7V21.txt";
-            FileInfo fileInfo = new FileInfo(path);
+            FileInfo fileInfo= new FileInfo(path);
             bool fileExists = fileInfo.Exists;
             Assert.IsTrue(fileExists);
         }

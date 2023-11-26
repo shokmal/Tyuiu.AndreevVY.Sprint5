@@ -28,7 +28,7 @@ namespace Tyuiu.AndreevVY.Sprint5.Task7.V21.Lib
                     {
                         if (!punctuation_marks.Contains(line[i]))
                         {
-                            new_str += line[i];
+                            new_str+= line[i];
                         }
                     }
                     File.WriteAllText(pathSaveFile, new_str);
